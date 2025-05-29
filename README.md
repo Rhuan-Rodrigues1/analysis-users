@@ -1,6 +1,7 @@
 # analysis-users
 # Desafio Técnico: Performance e Análise de Dados via API
-# Codecon dasafio: https://github.com/codecon-dev/desafio-1-1s-vs-3j
+### Codecon dasafio: https://github.com/codecon-dev/desafio-1-1s-vs-3j
+### Desafio para meu estudo de nodejs
 
 ## Objetivo
 
